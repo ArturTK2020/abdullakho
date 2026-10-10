@@ -1,0 +1,84 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    color: black
+}
+
+header a{
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 5px;
+    background-color: white;
+    color: gray ;
+}
+
+a{
+    background-color: orange;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px;
+    color: gray;
+}
+
+header img{
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    background-color: orange;
+    border-radius: 10px;
+    color: grey;
+}
+
+footer{
+    border: 5px solid orange;
+    border-radius: 10px;
+    padding: 5px;
+}
+.kam{
+    border: 2px solid orange;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.kim{
+    border: 2px solid orange;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+nav a{
+    color: white;
+    background-color: navy;
+    border: 1px solid navy;
+    padding: 5px;
+    text-decoration: none;
+}
+
+nav{
+    border: 1px solid navy;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.fee{
+    border: 4px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+main h2{
+    color: blue;
+}
+
+main{
+    font-size: 20px;
+    margin: 5px;
+}
